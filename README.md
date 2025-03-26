@@ -7,7 +7,6 @@ I'm currently working on becoming an IT professional
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AndresJFlores/osticket-examples)
 - <b>Microsoft Azure</b>
-  - [Configuring Active Directory within Azure VMs](https://github.com/joshmadakorcc/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/joshmadakorcc/azure-network-protocols)
 
 <h2>Thanks for stopping by</h2>
