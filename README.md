@@ -8,6 +8,8 @@ I'm currently working on becoming an IT professional
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AndresJFlores/osticket-examples)
 - <b>Microsoft Azure</b>
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AndresJFlores/azure-network-protocols)
+- <b>VPN</b>
+  - [What is a Virtual Private Network (VPN)](https://github.com/AndresJFlores/virtual-private-network)
 
 <h2>Thanks for stopping by</h2>
 <!--
