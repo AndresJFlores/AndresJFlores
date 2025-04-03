@@ -4,6 +4,8 @@ I'm currently working on becoming an IT professional
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b>Active Directory</b>
+  - [Creating users with PowerShell](https://github.com/AndresJFlores/creating-users)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AndresJFlores/osticket-examples)
 - <b>Microsoft Azure</b>
