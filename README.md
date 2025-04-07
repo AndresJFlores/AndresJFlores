@@ -5,6 +5,7 @@ I'm currently working on becoming an IT professional
 <h2>👨‍💻 Information Technology Projects:</h2>
 
 - <b>Active Directory</b>
+  - [Configuring and deploying Active Directory](https://github.com/AndresJFlores/configuring-and-deploying-active-directory/blob/main/README.md)
   - [Creating users with PowerShell](https://github.com/AndresJFlores/creating-users)
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Ticket Lifecycle Examples](https://github.com/AndresJFlores/osticket-examples)
